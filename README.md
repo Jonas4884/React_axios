@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##For depedencies
+## For depedencies
 First,you should run :
 ### npm install
 
